@@ -1,0 +1,12 @@
+  
+{
+	"items": [{
+			"title": "What is DevNet?",
+			"content": "intro-devnet.md"
+		},
+		{
+			"title": "DevNet certification",
+			"content": "devnet-cert.md"
+		}
+	]
+}

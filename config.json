@@ -35,7 +35,15 @@
           "title": "Support",
           "content": "https://developer.cisco.com/site/devnet/support/",
           "type": "url"
-        }
+        },
+              {
+                    "title":"Introduction to Cisco DevNet",
+                    "type":"config",
+                    "content":"intro-module/config.json",
+                    "config": {
+                      "id": "intro-module"
+                    }
+              },
       ]
     }
   ]
